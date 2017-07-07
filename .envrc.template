@@ -1,0 +1,10 @@
+# optional to add the project 's directory into pythonpath
+export PYTHONPATH =
+#PivotalTracker auth token to interact with the its API
+export TRACKER_TOKEN =
+#PivotalTracker url with the services/v5 path:
+export TRACKER_URL = <tracker_url>/services/v5
+# Team project id:
+export TRACKER_PROJECT_ID =
+#which path the script will use to download the repos
+export GIT_REPOS_PATH=
